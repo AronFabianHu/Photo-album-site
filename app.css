@@ -7,7 +7,7 @@ body {
     margin: 0;
 }
 
-nav h1 span a {
+nav h1 a {
     text-decoration: none;
     color: #000000;
     transition: 0.5s;
@@ -17,10 +17,10 @@ nav h1 span a {
 nav h1 {
     font-family: roboto, sans-serif;
     font-weight: 100;
-    font-size: 3em;
+    font-size: 2em;
 }
 
-nav h1 span a:hover {
+nav h1 a:hover {
     display: inline-block;
     transform: scale(1.02);
     color: #165e9e;
